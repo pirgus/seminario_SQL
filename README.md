@@ -25,3 +25,13 @@ sudo -u postgres psql
 ```bash
 \dt
 ```
+
+* Para sair do terminal postgres
+```bash
+\q
+```
+
+* Para obter ajuda do manual do PostgreSQL
+```bash
+\?
+```
