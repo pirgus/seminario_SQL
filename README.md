@@ -20,3 +20,8 @@ sudo systemctl start postgresql
 sudo -u postgres psql
 ```
 
+# Comandos úteis
+* No PostgreSQL, para visualizar as tabelas existentes no Banco de Dados vigente, utilize:
+```bash
+\dt
+```
